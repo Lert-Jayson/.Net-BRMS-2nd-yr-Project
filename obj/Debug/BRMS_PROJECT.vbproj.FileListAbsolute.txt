@@ -1,0 +1,57 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\bin\Debug\BRMS_PROJECT.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\bin\Debug\BRMS_PROJECT.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\bin\Debug\BRMS_PROJECT.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_login.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_Residents.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_brgyOfficials.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_brgyClearance.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_brgyIndigency.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printIndivRes.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_complain.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frrm_printbclearance.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printindigency.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_acclist.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_reports.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printresidentlist.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printlistbclearance.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_street.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printlistbindigency.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printcomplaintlist.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_loadscreen.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.lbl_pos.resources
+D:\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.exe
+D:\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.xml
+D:\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.pdb
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.exe
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.xml
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.pdb
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\bin\Debug\BRMS_PROJECT.exe
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\bin\Debug\BRMS_PROJECT.pdb
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\bin\Debug\BRMS_PROJECT.xml
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_acclist.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_brgyClearance.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_brgyIndigency.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_brgyOfficials.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_complain.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_loadscreen.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_login.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_main.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printcomplaintlist.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printindigency.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printIndivRes.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printlistbclearance.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printlistbindigency.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_printresidentlist.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_reports.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_Residents.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frm_street.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.frrm_printbclearance.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.Resources.resources
+C:\Users\User\Desktop\Projects\BRMS_PROJECT\BRMS_PROJECT\obj\Debug\BRMS_PROJECT.vbproj.GenerateResource.Cache

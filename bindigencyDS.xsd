@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="bindigencyDS" targetNamespace="http://tempuri.org/bindigencyDS.xsd" xmlns:mstns="http://tempuri.org/bindigencyDS.xsd" xmlns="http://tempuri.org/bindigencyDS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="bindigencyDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="bindigencyDS" msprop:Generator_UserDSName="bindigencyDS" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Indigency" msprop:Generator_UserTableName="Indigency" msprop:Generator_RowDeletedName="IndigencyRowDeleted" msprop:Generator_TableClassName="IndigencyDataTable" msprop:Generator_RowChangedName="IndigencyRowChanged" msprop:Generator_RowClassName="IndigencyRow" msprop:Generator_RowChangingName="IndigencyRowChanging" msprop:Generator_RowEvArgName="IndigencyRowChangeEvent" msprop:Generator_RowEvHandlerName="IndigencyRowChangeEventHandler" msprop:Generator_TablePropName="Indigency" msprop:Generator_TableVarName="tableIndigency" msprop:Generator_RowDeletingName="IndigencyRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="lname" msprop:Generator_UserColumnName="lname" msprop:Generator_ColumnPropNameInRow="lname" msprop:Generator_ColumnVarNameInTable="columnlname" msprop:Generator_ColumnPropNameInTable="lnameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="fname" msprop:Generator_UserColumnName="fname" msprop:Generator_ColumnPropNameInRow="fname" msprop:Generator_ColumnVarNameInTable="columnfname" msprop:Generator_ColumnPropNameInTable="fnameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="age" msprop:Generator_UserColumnName="age" msprop:Generator_ColumnPropNameInRow="age" msprop:Generator_ColumnVarNameInTable="columnage" msprop:Generator_ColumnPropNameInTable="ageColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="civilstat" msprop:Generator_UserColumnName="civilstat" msprop:Generator_ColumnPropNameInRow="civilstat" msprop:Generator_ColumnVarNameInTable="columncivilstat" msprop:Generator_ColumnPropNameInTable="civilstatColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="hnum" msprop:Generator_UserColumnName="hnum" msprop:Generator_ColumnPropNameInRow="hnum" msprop:Generator_ColumnVarNameInTable="columnhnum" msprop:Generator_ColumnPropNameInTable="hnumColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="street" msprop:Generator_UserColumnName="street" msprop:Generator_ColumnPropNameInRow="street" msprop:Generator_ColumnVarNameInTable="columnstreet" msprop:Generator_ColumnPropNameInTable="streetColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="purpose" msprop:Generator_UserColumnName="purpose" msprop:Generator_ColumnPropNameInRow="purpose" msprop:Generator_ColumnVarNameInTable="columnpurpose" msprop:Generator_ColumnPropNameInTable="purposeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="dategiven" msprop:Generator_UserColumnName="dategiven" msprop:Generator_ColumnPropNameInRow="dategiven" msprop:Generator_ColumnVarNameInTable="columndategiven" msprop:Generator_ColumnPropNameInTable="dategivenColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="givenby" msprop:Generator_UserColumnName="givenby" msprop:Generator_ColumnPropNameInRow="givenby" msprop:Generator_ColumnVarNameInTable="columngivenby" msprop:Generator_ColumnPropNameInTable="givenbyColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
